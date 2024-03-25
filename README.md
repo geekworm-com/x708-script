@@ -25,4 +25,4 @@ SHUTDOWN=5
 BOOT=12
 >/usr/local/bin/xPWR.sh 0 5 12
 
-Please change `0` to `2` if you use in ot Raspberry Pi 5 hardware
+Please change `0` to `2` if you use in on Raspberry Pi 5 hardware
