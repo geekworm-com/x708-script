@@ -15,6 +15,7 @@ PWM_CHIP=0
 BUTTON_BIN=13
 > /usr/local/bin/xSoft.sh 0 13
 
+Please change `0` to `2` if you use in ot Raspberry Pi 5 hardware
 ## x708 Power management service
 
 PWM_CHIP=0
@@ -23,3 +24,5 @@ SHUTDOWN=5
 
 BOOT=12
 >/usr/local/bin/xPWR.sh 0 5 12
+
+Please change `0` to `2` if you use in ot Raspberry Pi 5 hardware
